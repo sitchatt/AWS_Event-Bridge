@@ -1,0 +1,12 @@
+{
+    "id": "1b8e2e75-b771-e964-f0e6-fbca6a21dad8",
+    "detail-type": "test type",
+    "source": "test",
+    "account": "sasa",
+    "resources": [""],
+    "time": "2022-10-02T12:47:58Z",
+    "region": "ss",
+    "detail": {
+      "type": "toy"
+    }
+  }
